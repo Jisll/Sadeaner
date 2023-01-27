@@ -1,4 +1,4 @@
-# 👋 Introducing `Sadeaner` ![Downloads](https://img.shields.io/github/downloads/jisll/Sadeaner/total.svg?style=for-the-badge&logo=appveyor) <3
+# 👋 Introducing `Sadeaner` <3
 
 `Sadeaner` is a powerful and efficient tool for cleaning your PC. It offers a wide range of useful functions, such as the ability to remove unnecessary files and folders, free up valuable disk space, and improve the overall performance of your system. This makes it an excellent choice for gamers, as it can help to free up resources and improve the performance of games. Additionally, Sadeaner will also includes advanced features such as a registry cleaner, startup manager, and browser cleaner, which can help to keep your system running smoothly and efficiently.
 <hr>
