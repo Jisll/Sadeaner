@@ -1,13 +1,6 @@
 # 👋 Introducing `Sadeaner` ![Downloads](https://img.shields.io/github/downloads/jisll/Sadeaner/total.svg?style=for-the-badge&logo=appveyor) <3
 
-`Sadeaner` is a simple made 1-click optimizer and open-source project! it is designed to improve performance and latency in games and enhance your gaming experience.
-This software is still under development, many features will be added, if you have any ideas write us! Support and more is appreciated, any help will help us to develop this app further.
-
-<p align="center">
-		<img src="https://cdn.discordapp.com/attachments/927291995947413515/1049836598600147064/sadcoyoptimizer.png">
-	</a>
-</p> 
-
+`Sadeaner` is a good tool for cleaning up the PC. It offers many useful functions such as removing unnecessary files and folders, freeing up disk space. It is the best choice for gamers. 
 <hr>
 
 ## ⛱️ Support my Work!
