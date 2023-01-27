@@ -1,0 +1,16 @@
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\MainWindow.g.cs
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\App.g.cs
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner_MarkupCompile.cache
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner_MarkupCompile.lref
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\bin\Debug\Sadeaner.exe.config
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\bin\Debug\Sadeaner.exe
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\bin\Debug\Sadeaner.pdb
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\MainWindow.baml
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.g.resources
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.Properties.Resources.resources
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.csproj.GenerateResource.cache
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.exe
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.pdb
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\Sadeaner\Sadeaner\obj\Debug\Sadeaner.csproj.SuggestedBindingRedirects.cache
