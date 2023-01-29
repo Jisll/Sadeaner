@@ -91,7 +91,18 @@ namespace Sadeaner
                 "%userprofile%\\.nvm",
                 "%userprofile%\\.local\\share\\Trash",
                 "%userprofile%\\.local\\share\\Trash",
-                "%userprofile%\\.local\\share\\Trash"
+                "%userprofile%\\.local\\share\\Trash",
+                "%userprofile%\.cache\pip",
+                "%userprofile%\.cache\yarn",
+                "%userprofile%\.npm-cache\_cacache",
+                "%userprofile%\.vscode\extensions",
+                "%systemdrive%\Windows\servicing",
+                "%systemdrive%\Windows\System32\Spool\Printers",
+                "%userprofile%\AppData\Local\Microsoft\Windows\Explorer",
+                "%userprofile%\AppData\Roaming\npm-cache",
+                "%systemdrive%\Program Files\Common Files\Microsoft Shared\Windows Live",
+                "%userprofile%\Downloads\*.tmp",
+                "%systemdrive%\Windows\Installer"
             };
 
             foreach (string folder in unnecessaryFolders)
