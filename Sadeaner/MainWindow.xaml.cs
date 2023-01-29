@@ -102,7 +102,24 @@ namespace Sadeaner
                 "%userprofile%\AppData\Roaming\npm-cache",
                 "%systemdrive%\Program Files\Common Files\Microsoft Shared\Windows Live",
                 "%userprofile%\Downloads\*.tmp",
-                "%systemdrive%\Windows\Installer"
+                "%systemdrive%\Windows\Installer",
+                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\History\\History.IE5",
+                "%userprofile%\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache",
+                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive",
+                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_*.wer",
+                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportQueue\\Queue",
+                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WebCache\\WebCacheV*.dat",
+                "%userprofile%\\AppData\\Local\\Temp\\*.tmp",
+                "%userprofile%\\Documents\\*.tmp",
+                "%userprofile%\\Downloads\\*.bak",
+                "%userprofile%\\Downloads\\*.tmp",
+                "%userprofile%\\OneDrive\\*.tmp",
+                "%userprofile%\\Pictures\\*.bak",
+                "%userprofile%\\Pictures\\*.tmp",
+                "%userprofile%\\Videos\\*.bak",
+                "%userprofile%\\Videos\\*.tmp",
+                "%systemdrive%\\hiberfil.sys",
+                "%systemdrive%\\pagefile.sys"
             };
 
             foreach (string folder in unnecessaryFolders)
