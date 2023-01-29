@@ -73,8 +73,6 @@ namespace Sadeaner
                 "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files",
                 "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\History",
                 "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\Cookies",
-                "%userprofile%\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\*.default\\cache2",
-                "%userprofile%\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\*.default\\minidumps",
                 "%userprofile%\\.nuget\\packages",
                 "%userprofile%\\.npm-cache",
                 "%userprofile%\\.bower-cache",
@@ -98,12 +96,9 @@ namespace Sadeaner
                 "%userprofile%\.vscode\extensions",
                 "%systemdrive%\Windows\servicing",
                 "%systemdrive%\Windows\System32\Spool\Printers",
-                "%userprofile%\AppData\Local\Microsoft\Windows\Explorer",
                 "%userprofile%\AppData\Roaming\npm-cache",
                 "%systemdrive%\Program Files\Common Files\Microsoft Shared\Windows Live",
                 "%userprofile%\Downloads\*.tmp",
-                "%systemdrive%\Windows\Installer",
-                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\History\\History.IE5",
                 "%userprofile%\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache",
                 "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive",
                 "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_*.wer",
@@ -118,8 +113,6 @@ namespace Sadeaner
                 "%userprofile%\\Pictures\\*.tmp",
                 "%userprofile%\\Videos\\*.bak",
                 "%userprofile%\\Videos\\*.tmp",
-                "%systemdrive%\\hiberfil.sys",
-                "%systemdrive%\\pagefile.sys"
             };
 
             foreach (string folder in unnecessaryFolders)
