@@ -112,7 +112,7 @@ namespace Sadeaner
                 "%userprofile%\\Pictures\\*.bak",
                 "%userprofile%\\Pictures\\*.tmp",
                 "%userprofile%\\Videos\\*.bak",
-                "%userprofile%\\Videos\\*.tmp",
+                "%userprofile%\\Videos\\*.tmp"
             };
 
             foreach (string folder in unnecessaryFolders)
