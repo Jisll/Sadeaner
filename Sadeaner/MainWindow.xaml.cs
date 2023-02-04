@@ -82,26 +82,7 @@ namespace Sadeaner
                 "%userprofile%\\.nvm",
                 "%userprofile%\\.local\\share\\Trash",
                 "%userprofile%\\.local\\share\\Trash",
-                "%userprofile%\\.local\\share\\Trash",
-                "%userprofile%\.cache\pip",
-                "%userprofile%\.cache\yarn",
-                "%userprofile%\.npm-cache\_cacache",
-                "%userprofile%\AppData\Roaming\npm-cache",
-                "%systemdrive%\Program Files\Common Files\Microsoft Shared\Windows Live",
-                "%userprofile%\Downloads\*.tmp",
-                "%userprofile%\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache",
-                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive",
-                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_*.wer",
-                "%userprofile%\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportQueue\\Queue",
-                "%userprofile%\\AppData\\Local\\Temp\\*.tmp",
-                "%userprofile%\\Documents\\*.tmp",
-                "%userprofile%\\Downloads\\*.bak",
-                "%userprofile%\\Downloads\\*.tmp",
-                "%userprofile%\\OneDrive\\*.tmp",
-                "%userprofile%\\Pictures\\*.bak",
-                "%userprofile%\\Pictures\\*.tmp",
-                "%userprofile%\\Videos\\*.bak",
-                "%userprofile%\\Videos\\*.tmp"
+                "%userprofile%\\.local\\share\\Trash"
             };
 
             foreach (string folder in unnecessaryFolders)
